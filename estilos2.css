@@ -1,0 +1,55 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url(img/fondo-4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+
+    margin: 30px auto;
+    background: #24303c;
+    border-radius: 4px;
+    padding: 10px;
+
+    box-shadow: 0 0 20px 0 rgba(255, 255, 255, .9);
+    border-radius: 10px;
+
+}
+
+
+.container h2 {
+
+	background: #24303c;
+	font-family: 'calibri';
+    color: white;
+    text-align: center;
+    font-size: 20px;
+
+}
+
+.container h5 {
+
+	background: #24303c;
+	font-family: 'calibri';
+    color: white;
+    text-align: center;
+    border-radius: 4px;
+    opacity: 0.7;
+    margin: 0 0 0 0;
+
+}
+
+.container p{
+
+    padding: 20px;
+    background-color: rgba(64, 145, 236, 0.4);
+    text-align: center;
+
+}
+
